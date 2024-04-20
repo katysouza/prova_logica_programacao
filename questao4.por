@@ -6,7 +6,7 @@ algoritmo "semnome"
 var
 senha, senhaPadrao : inteiro
 inicio
-senhaPadrao <- 12345
+senhaPadrao <- 1234
 
 escreva("Digite sua senha: ")
 leia (senha)
